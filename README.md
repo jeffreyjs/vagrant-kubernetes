@@ -19,7 +19,7 @@ git clone git@github.com:jeffreyjs/vagrant-kubernetes.git
 vagrant up
 ```
 
-### Stop Environment
+## Stop Environment
 
 ```sh
 vagrant halt
